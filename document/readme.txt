@@ -3,4 +3,4 @@ welcome to my site
 you can raise questions to me.
 you can email to me.
 now we have new branch dev.
-we should never face an issue.
+if we face issue when merge,we ask for help.
